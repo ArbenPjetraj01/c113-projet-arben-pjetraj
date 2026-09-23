@@ -1,4 +1,11 @@
+/*carbon-black: #181c1cff;
+graphite: #2d2f31ff;
+charcoal: #4f4f4aff;
+white-smoke: #f5f5f5ff;
+inferno: #ab0303ff;
+*/
+
 body {
-    background-color: whitesmoke;
-    color: white;
+    background-color: #4f4f4aff;
+    color: #f5f5f5ff;
 }
