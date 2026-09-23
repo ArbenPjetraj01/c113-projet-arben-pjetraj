@@ -5,9 +5,9 @@
 ## 1. 🎨 Présentation du projet
 
 ### Concept
-- Thème choisi : ApexLegends
+- Thème choisi : Présentation des personnages d'ApexLegends
 - Public cible : Gamers
-- Objectifs du site : Informations sur le jeu ApexLegends
+- Objectifs du site : Présenter les personnages d'ApexLegends
 
 ### Fonctionnalités prévues
 - Navigation : Chrome/Safari/Edge/Firefox
