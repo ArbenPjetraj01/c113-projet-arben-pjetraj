@@ -5,9 +5,9 @@
 ## 1. 🎨 Présentation du projet
 
 ### Concept
-- Thème choisi : Quiz football
-- Public cible : Tout âge/Connaisseurs du football
-- Objectifs du site : tester les connaissances footballistiques
+- Thème choisi : ApexLegends
+- Public cible : Gamers
+- Objectifs du site : Informations sur le jeu ApexLegends
 
 ### Fonctionnalités prévues
 - Navigation : Chrome/Safari/Edge/Firefox
