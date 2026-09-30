@@ -1,19 +1,28 @@
 :root {
-    --charcoal-brown: #2D2D25;     /* Fond de la page */
-    --charcoal-light: #44443a;     /* Fond des blocs/conteneurs */
-    --ash-grey: #AFBBBB;           /* Couleur du texte (Ratio 7.03:1) */
-    --white-smoke: #f5f5f5;        /* Pour les grands titres */
-    --inferno: #ea1e30;            /* Rouge Apex Legends */
+    --charcoal-brown: #2D2D2D; /* Fond de la page */
+    --charcoal-light: #44443a; /* Fond des blocs/conteneurs */
+    --ash-grey: #AFBBBB;      /* Couleur du texte (Ratio 7.03:1) */
+    --white-smoke: #f5f5f5;   /* Pour les grands titres */
+    --inferno: #ea1e30;       /* Rouge Apex Legends */
+
+    --police-titre: 'Titre', sans-serif;
+    --police-texte: 'Arial', sans-serif;
 }
+
 
 body {
     background-color: var(--charcoal-brown);
     color: var(--ash-grey);
+    font-family: var(--police-texte);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.6;
 }
 
 header {
     background-color: var(--charcoal-light);
     color: var(--ash-grey);
+    text-align: center;
 }
 
 main {
@@ -23,17 +32,26 @@ main {
 
 h1 {
     color: var(--white-smoke);
+    font-family: var(--police-titre);
+    font-size: 2.5rem;
+    text-align: center;
 }
 
 h2 {
     color: var(--ash-grey);
+    font-family: var(--police-titre);
+    font-size: 1.8rem;
 }
 
 p {
     color: var(--ash-grey);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.6;
 }
 
 footer {
     background-color: var(--charcoal-light);
     color: var(--ash-grey);
+    text-align: center;
 }
